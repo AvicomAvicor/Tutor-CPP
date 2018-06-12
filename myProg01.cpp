@@ -9,7 +9,7 @@ void frint(const char *str);
 int main()
 {
 	frint("String for Probe");
-	getchar();
+	////getchar();
     return 0;
 }
 
